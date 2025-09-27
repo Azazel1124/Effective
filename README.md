@@ -13,4 +13,4 @@ sudo systemctl enable test.service
 sudo systemctl start test.service
 
 # для этих команд ,инициализатор должен быть systemd
-© Apache license
+©  GNU GENERAL PUBLIC LICENSE
